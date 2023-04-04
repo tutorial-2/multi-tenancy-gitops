@@ -23,7 +23,7 @@ spec:
           clusterType: "ocp4"
           ocpCatalog:
             source: redhat-operators
-            channel: stable
+            channel: latest
             name: kiali-ossm
   syncPolicy:
     automated:
