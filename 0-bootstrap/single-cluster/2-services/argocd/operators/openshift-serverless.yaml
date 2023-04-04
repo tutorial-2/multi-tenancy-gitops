@@ -28,7 +28,7 @@ spec:
       - name: metadata.name
         value: serverless-operator
       - name: spec.channel
-        value: stable
+        value: latest
       - name: spec.installPlanApproval
         value: Automatic
       - name: spec.name
